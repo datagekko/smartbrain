@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/datagekko/smartbrain/static/css/main.6902aa5b.css",
-    "main.js": "/datagekko/smartbrain/static/js/main.017c6e57.js",
-    "static/js/787.97a96b3a.chunk.js": "/datagekko/smartbrain/static/js/787.97a96b3a.chunk.js",
-    "index.html": "/datagekko/smartbrain/index.html",
-    "main.6902aa5b.css.map": "/datagekko/smartbrain/static/css/main.6902aa5b.css.map",
-    "main.017c6e57.js.map": "/datagekko/smartbrain/static/js/main.017c6e57.js.map",
-    "787.97a96b3a.chunk.js.map": "/datagekko/smartbrain/static/js/787.97a96b3a.chunk.js.map"
+    "main.css": "/smartbrain/static/css/main.6902aa5b.css",
+    "main.js": "/smartbrain/static/js/main.8a3cbe3c.js",
+    "static/js/787.97a96b3a.chunk.js": "/smartbrain/static/js/787.97a96b3a.chunk.js",
+    "index.html": "/smartbrain/index.html",
+    "main.6902aa5b.css.map": "/smartbrain/static/css/main.6902aa5b.css.map",
+    "main.8a3cbe3c.js.map": "/smartbrain/static/js/main.8a3cbe3c.js.map",
+    "787.97a96b3a.chunk.js.map": "/smartbrain/static/js/787.97a96b3a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6902aa5b.css",
-    "static/js/main.017c6e57.js"
+    "static/js/main.8a3cbe3c.js"
   ]
 }
