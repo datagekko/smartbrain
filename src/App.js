@@ -105,7 +105,7 @@ function App() {
     })
     .then(response => response.json())
     .then(count => {
-      setUser(Object.assign(user, { entries: count }));
+      setUser((currentUser) => ({ ...currentUser, entries: count }));
     })
     .catch(error => console.error('Error updating user entries:', error));
   };
